@@ -1,0 +1,10 @@
+# Compiled object files and binaries
+*.o
+kernel.elf
+kernel.iso
+
+# Temporary build directories
+iso_root/
+
+# Cloned third-party Limine binary repo (can be re-cloned anytime)
+limine/
